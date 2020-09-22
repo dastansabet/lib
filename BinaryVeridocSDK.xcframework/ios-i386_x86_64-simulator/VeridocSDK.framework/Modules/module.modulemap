@@ -1,0 +1,6 @@
+framework module VeridocSDK {
+  umbrella header "VeridocSDK.h"
+
+  export *
+  module * { export * }
+}
